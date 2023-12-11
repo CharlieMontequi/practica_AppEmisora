@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">practica_AppEmisora</string>
+    <string name="eTxt_escribirMensaje"/>
+    <string name="b_enviar">Enviar</string>
+</resources>
